@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class main {
 
     public static void main(String[] args) {
@@ -12,7 +13,5 @@ public class main {
         if (age >= 21) {
             System.out.println("You are 21 or older, you get a wristband");
         }
-
-
     }
 }
